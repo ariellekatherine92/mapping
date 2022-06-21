@@ -14,6 +14,8 @@ To install each technology please see respective documentation below:
 
 [HTML](https://html.com/)
 
+[Pandas](https://pandas.pydata.org/docs/)
+
 For the HTML file in this repo I would save the file to your desktop and drag into repo once it has been established.
-#Make sure to import folium at the top of your python file to ensure it can be used throughout your code.
+#Make sure to import folium and pandas at the top of your python file to ensure it can be used throughout your code.
 
