@@ -11,6 +11,7 @@ To install each technology please see respective documentation below:
 [Python](https://www.python.org/)
 
 [Folium](https://python-visualization.github.io/folium/)
+Use pip3 install folium
 
 [HTML](https://html.com/)
 
