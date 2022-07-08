@@ -1,11 +1,11 @@
 import folium
 import pandas
 
-#create HTML file with map.save("Map1.html")
 #import folium to support open source map 
 #import pandas used for data cleaning and analysis
 #Folium converts the python code into simple javascript and css code to render map on screen
 #layers on map come from overstreet map service - give you layer that folium serves
+#create HTML file with map.save("Map1.html")
 
 data = pandas.read_csv("Volcanoes.txt")
 # create lists from csv data to loop through later
